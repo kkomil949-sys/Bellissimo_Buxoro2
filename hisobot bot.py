@@ -4,7 +4,8 @@ from datetime import datetime
 from telegram import Update, ReplyKeyboardMarkup, ReplyKeyboardRemove
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler
 
-TOKEN = "8744849749:AAHRkHj61DGigUFuo4ujiFUVUWLnRska8gc"
+TOKEN = 8744849749:AAFQBozTinrmwpnetzLguUWTCPexb4sziyY
+
 ADMIN_ID = 1810923583
 DATA_FILE = "xodimlar.json"
 
