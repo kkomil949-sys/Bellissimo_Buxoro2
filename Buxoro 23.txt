@@ -1,0 +1,3 @@
+git remote add origin https://github.com/kkomil949-sys/Bellissimo_Buxoro2.git
+git branch -M main
+git push -u origin main
